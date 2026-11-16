@@ -1,0 +1,5 @@
+export enum ItemCondition {
+  LAYAK_PAKAI = 'LAYAK_PAKAI',
+  PERLU_DIPERBAIKI = 'PERLU_DIPERBAIKI',
+  RUSAK_TOTAL = 'RUSAK_TOTAL',
+}
